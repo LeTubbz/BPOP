@@ -1,8 +1,8 @@
 ## Bottomless Pit of People v1.0
 
-- Adorn (by Juicebus)
-- Styled Chat (by Patbox)
-- MidnightLib (by TeamMidnightDust)
+- [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn) (by [Juicebus](https://www.curseforge.com/members/juicebus/projects))
+- [Styled Chat](https://www.curseforge.com/minecraft/mc-mods/styled-chat) (by [Patbox](https://www.curseforge.com/members/patbox/projects))
+- [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) (by [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust/projects))
 - Sodium (by jellysquid3_)
 - Trinkets (Fabric) (by EmilyPloszaj)
 - Farmer's Delight [Fabric] (by NewHoryzon)
