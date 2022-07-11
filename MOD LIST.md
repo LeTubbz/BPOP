@@ -10,7 +10,7 @@
 - [Collective](https://www.curseforge.com/minecraft/mc-mods/collective-fabric) (Fabric) (by Serilum)
 - [BetterNether](https://www.curseforge.com/minecraft/mc-mods/betternether) (by Quiqueck)
 - [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend) (by Quiqueck)
-- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) (Fabric)] (by malte0811)
+- [FerriteCore (Fabric)](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) (by malte0811)
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) (Fabric/Forge) (by shedaniel)
 - [TerraBlender (Fabric)](https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric) (by TheAdubbz)
 - [Villager Names (Fabric)](https://www.curseforge.com/minecraft/mc-mods/villager-names-fabric) (by YumatanGames)
