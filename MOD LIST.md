@@ -59,6 +59,6 @@
 - [Additional Additions | Fabric](https://www.curseforge.com/minecraft/mc-mods/additional-additions) (by dqu1jjj)
 - [FallingTree (Forge&Fabric)](https://www.curseforge.com/minecraft/mc-mods/falling-tree) (by RakSrinaNa)
 - [Origins (Fabric)](https://www.curseforge.com/minecraft/mc-mods/origins) (by Apace100)
-- [Xaero's Minimap] (by xaero96)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) (by xaero96)
 - [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) (by badasintended)
 - [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) (by cominixo)
