@@ -1,0 +1,12 @@
+name = "Bottomless Pit of People"
+version = "1.09.04"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "871aa9a787f6a7f608d658f98a73209a67c0a63f4c5459e8c7b2497e1dc5e794"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19"
