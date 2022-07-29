@@ -1,0 +1,13 @@
+name = "GamemodeOverhaul"
+filename = "GamemodeOverhaul-fabric-2.0.3+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17a85ee30b44b5dfd913e02904a8b58bc3490bda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3874319
+project-id = 314612

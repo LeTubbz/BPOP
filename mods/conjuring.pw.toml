@@ -1,0 +1,13 @@
+name = "Conjuring"
+filename = "conjuring-1.0.24+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29bf0e599cef6f3bc39b6c6fd0f6dcda499b4e00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3894077
+project-id = 422310

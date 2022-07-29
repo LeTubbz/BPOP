@@ -1,0 +1,13 @@
+name = "Eldritch Mobs"
+filename = "eldritch-mobs-1.12.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53a2a2d6f28014fc6829ce90733f9bbca90aec26"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3904916
+project-id = 392015
