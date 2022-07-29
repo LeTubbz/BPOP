@@ -1,0 +1,13 @@
+name = "Incantationem"
+filename = "incantationem-1.1.4+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc6abf31845619b84393076f1a4fb5c18a9e289a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3812377
+project-id = 483166

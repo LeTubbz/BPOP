@@ -1,0 +1,13 @@
+name = "Transparent Armor [FABRIC]"
+filename = "transparentarmor-0.0.1-1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e18ba0e4e7651f0bfd6c6343fdfe4f2a943aaf31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3862069
+project-id = 640599

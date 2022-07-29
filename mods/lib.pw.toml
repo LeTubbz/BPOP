@@ -1,0 +1,13 @@
+name = "Flytre Lib (FlytreLib)"
+filename = "flytre_lib-1.19-1.8.8-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0bfafef42ecfd6e6eccf427d6983fcfc938e993"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3855226
+project-id = 444498

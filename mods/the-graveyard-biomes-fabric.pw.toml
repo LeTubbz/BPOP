@@ -1,0 +1,13 @@
+name = "The Graveyard Biomes (FABRIC)"
+filename = "The_Graveyard_Biomes_1.2_(FABRIC)_for_1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d47fcd59973be0de17cac3ca255a6d90eb5d5127"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3827387
+project-id = 584511
